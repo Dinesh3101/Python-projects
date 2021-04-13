@@ -1,3 +1,4 @@
+#generation of Fibonacci numbers
 N=int(input("Enter the Nth term upto which the fibonacci numbers must be generated:"))
 print("the fibonacci numbers:\n")
 for s in range(0,2):
