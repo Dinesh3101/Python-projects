@@ -18,7 +18,6 @@ def most_frequent(n):
         x=count(i)
         u=ll.index(i)
         d[ll[u]]=x
-    print(d)
     li1=list(d.values())
     li1.sort(reverse=True)
     li2=[]
